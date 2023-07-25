@@ -390,9 +390,6 @@ summary::-webkit-details-marker {
   }
 }
 
-.content {
-}
-
 .product {
   height: 777px;
   background-color: $colorBackgroundProduct;
@@ -525,9 +522,6 @@ summary::-webkit-details-marker {
     margin: 0 auto;
     @extend %paddingsLR;
     @extend %flexWrapBetween;
-  }
-
-  &-description {
   }
 
   &-item {
@@ -966,9 +960,6 @@ summary::-webkit-details-marker {
       padding-left: 16px;
       padding-right: 16px;
     }
-  }
-
-  .content {
   }
 
   .product {
